@@ -17,7 +17,7 @@
 <meta property="og:site_name" content="Hexo">
 <meta property="og:description" content="About MeWant a pdf copy? Education JUN 2012-AUG 2020 (expected), Rice University, Houston, TXPhD in Chemical and Biomolecular Engineering SEP 2009-JUN 2012, Purdue University, West Lafayette, INBSE wi">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2020-11-24T00:06:47.458Z">
+<meta property="article:published_time" content="2021-03-07T08:28:07.747Z">
 <meta property="article:modified_time" content="2020-11-24T00:06:47.458Z">
 <meta property="article:author" content="Zhao Tang">
 <meta name="twitter:card" content="summary">
@@ -117,7 +117,7 @@
       
       
       <a class="forkMe" style="position:absolute;z-index:999;top:0;right:0.5em;" 
-        href="https://github.com/JoeyBling/hexo-theme-yilia-plus" target="_blank">
+        href="https://github.com/zt5rice" target="_blank">
         <img src="/img/forkme.png"
           class="attachment-full size-full" alt="Fork me on GitHub" data-recalc-dims="1"></a>
       
@@ -322,7 +322,7 @@
   <div class="outer">
     <div id="footer-info">
     	<div class="footer-left">
-    		&copy; 2018-2020 <a href="http://example.com/" target="_blank">Zhao Tang</a>
+    		&copy; 2018-2021 <a href="http://example.com/" target="_blank">Zhao Tang</a>
     	</div>
       	<div class="footer-right">
 			
@@ -357,7 +357,7 @@
 		isArchive: false,
 		isTag: false,
 		isCategory: false,
-		open_in_new: flase,
+		open_in_new: false,
 		toc_hide_index: true,
 		root: "/",
 		innerArchive: true,
@@ -472,7 +472,7 @@
         <ul class="search-ul">
           
             <li class="search-li">
-              <a href="https://github.com/JoeyBling" target="_blank" 
+              <a href="https://github.com/zt5rice" target="_blank" 
                 class="search-title" >
                 
                   <i class="icon-link icon"></i>
@@ -566,6 +566,35 @@
   </div>
 
   
+<script type="text/javascript" src="/plugins/TweenMax/TweenMax.min.js"></script>
+<script type="text/javascript" src="/plugins/TweenMax/HoverImg.js"></script>
+
+<script>
+
+
+  var hoverEffect = {
+    "subNav": ".left-col .social a"
+  }
+
+
+  for (var x in hoverEffect) {
+    // 初始化data-img属性值
+    let $em = document.querySelectorAll(hoverEffect[x]);
+    $em.forEach(($a) => {
+      //console.log($a.href);
+      if (isImageType($a.href)) {
+        $a.setAttribute("data-img", $a.href)
+      }
+    })
+    // 实现悬停元素预览图片效果
+    let $a = document.querySelectorAll(hoverEffect[x] + "[data-img]");
+    $a.forEach(($em) => {
+      new HoverImgFx1($em)
+    })
+  }
+
+</script>
+
   
 <script type="text/javascript" src="/plugins/activate-power-mode/activate-power-mode.js"></script>
 <script>
