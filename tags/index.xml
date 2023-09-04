@@ -5,6 +5,61 @@
     <link>https://hugo-profile.netlify.app/tags/</link>
     <description>Recent content in Tags on Hugo Profile</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hugo-profile.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Sep 2023 19:07:25 -0500</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android</title>
+      <link>https://hugo-profile.netlify.app/tags/android/</link>
+      <pubDate>Sun, 03 Sep 2023 19:07:25 -0500</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>https://hugo-profile.netlify.app/tags/mysql/</link>
+      <pubDate>Sun, 03 Sep 2023 19:07:25 -0500</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>https://hugo-profile.netlify.app/tags/react/</link>
+      <pubDate>Sun, 03 Sep 2023 19:07:25 -0500</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring</title>
+      <link>https://hugo-profile.netlify.app/tags/spring/</link>
+      <pubDate>Sun, 03 Sep 2023 19:07:25 -0500</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/tags/spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github jobs</title>
+      <link>https://hugo-profile.netlify.app/tags/github-jobs/</link>
+      <pubDate>Sun, 03 Sep 2023 17:35:09 -0500</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/tags/github-jobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomcat</title>
+      <link>https://hugo-profile.netlify.app/tags/tomcat/</link>
+      <pubDate>Sun, 03 Sep 2023 17:35:09 -0500</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/tags/tomcat/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tomcat on Hugo Profile</title>
+    <link>https://hugo-profile.netlify.app/tags/tomcat/</link>
+    <description>Recent content in Tomcat on Hugo Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Sep 2023 17:35:09 -0500</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/tags/tomcat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Job Finder Plus</title>
+      <link>https://hugo-profile.netlify.app/projects/job-recommendation/</link>
+      <pubDate>Sun, 03 Sep 2023 17:35:09 -0500</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/projects/job-recommendation/</guid>
+      <description>Job Finder Plus Overview Job plus is a personalized job recommendation engine. It allows users to find posted nearby job from github jobs. User registration is designed to achieve personalized job recomemdation. Item based job recommendation can be made through user&amp;rsquo;s favorite job label.
+My work at a glance Designed and implemented an interactive web app for users to search and apply available job positions. Performed front-end web UI design and implementation using HTML/CSS/JavaScript.</description>
+    </item>
+    
+  </channel>
+</rss>

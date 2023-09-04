@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spring on Hugo Profile</title>
+    <link>https://hugo-profile.netlify.app/tags/spring/</link>
+    <description>Recent content in Spring on Hugo Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Sep 2023 19:07:25 -0500</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/tags/spring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Online Shopping System</title>
+      <link>https://hugo-profile.netlify.app/projects/online-shopping-system/</link>
+      <pubDate>Sun, 03 Sep 2023 19:07:25 -0500</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/projects/online-shopping-system/</guid>
+      <description>Lab Sup : Lab Supplies management system Overview LabSup is a Spring and Hibernate based Lab supplies management system to tracking lab supplies and manage lab staff consumption of lab supplies.
+My work at a glance Built a web application based on Spring MVC to support item search and listing (dependency injection, inversion of control, REST API etc.). Implemented security workflow via in-memory and JDBC authentication provided by Spring Security. Utilized Hibernate to provide better support of database operations.</description>
+    </item>
+    
+  </channel>
+</rss>

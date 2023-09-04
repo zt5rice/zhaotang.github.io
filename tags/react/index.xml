@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React on Hugo Profile</title>
+    <link>https://hugo-profile.netlify.app/tags/react/</link>
+    <description>Recent content in React on Hugo Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Sep 2023 19:07:25 -0500</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starlink: React JS based Starlink Trajectory Visualization</title>
+      <link>https://hugo-profile.netlify.app/projects/starlink/</link>
+      <pubDate>Sun, 03 Sep 2023 19:07:25 -0500</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/projects/starlink/</guid>
+      <description>Overview Starlink: React JS based Starlink Trajectory Visualization
+My work at a glance Setup the Repo by leveraging the React official CLI tool, and use NPM to manage project dependencies. Design the layout, component interface and data flow before the implementation. Built forms to collect user observation geo information using Ant Design component library. Fetch nearby satellites information and position prediction data through the N2YO API(s). Animated selected satellite paths on a world map using React-Simple-Map to improve the user friendness.</description>
+    </item>
+    
+  </channel>
+</rss>
